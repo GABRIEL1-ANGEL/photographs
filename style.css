@@ -1,0 +1,179 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: orange;
+}
+
+h1{
+    font-size: 3rem;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+h1:hover {
+    text-decoration:5px solid #000 underline;   
+}
+
+p {
+    margin-top: 40px;
+    max-width: 80rem;
+    margin-left: 50px;
+}
+
+h2 {
+    font-size: 3rem;
+    margin-top: 100px;
+    margin-left: 430px;
+}
+
+h2:hover {
+    text-decoration:5px solid #000 underline;   
+}
+
+img {
+    height: 450px;
+    width: 300px;
+    margin-left: 29px;
+    margin-top: 30px;
+}
+
+img:hover {
+    cursor:no-drop;
+}
+
+h3 {
+    font-size: 3rem;
+    margin-top: 200px;
+    margin-left: 260px;
+}
+
+h3:hover {
+    text-decoration:5px solid #000 underline;   
+}
+
+img.tree {
+    height: 700px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+img.tree:hover {
+    cursor: pointer;
+}
+
+img.mount {
+    margin-left: 140px;
+    width: 1100px;
+    height: 700px;
+}
+
+img.mount:hover {
+    cursor: pointer;
+}
+
+img.water {
+    margin-left: 140px;
+    width: 1100px;
+    height: 700px;
+}
+
+img.water:hover {
+    cursor: pointer;
+}
+
+img.grass {
+    margin-left: 140px;
+    width: 1100px;
+    height: 700px;
+}
+
+img.grass:hover {
+    cursor: pointer;
+}
+
+h4 {
+    font-size: 3rem;
+    margin-top: 150px;
+    margin-left: 350px;
+}
+
+h4:hover {
+    text-decoration:5px solid #000 underline;   
+}
+
+img.aston{
+    height: 700px;
+    width: 1050px;
+    margin-left:165px;
+    margin-top: 90px;
+}
+
+img.aston:hover {
+    cursor: pointer;
+}
+
+img.benz {
+    height: 700px;
+    width: 1050px;
+    margin-left: 165px;
+    margin-top: 90px;
+}
+
+img.benz:hover {
+    cursor: pointer;
+}
+
+img.ferrari{
+    height: 700px;
+    width: 1050px;
+    margin-left: 165px;
+    margin-top: 90px;
+}
+
+img.ferrari:hover {
+    cursor: pointer;
+}
+
+img.mclaren {
+    height: 700px;
+    width: 1050px;
+    margin-left: 165px;
+    margin-top: 90px;
+}
+
+img.mclaren:hover {
+    cursor: pointer;
+}
+
+img.porsche{
+    height: 700px;
+    width: 1050px;
+    margin-left: 160px;
+    margin-top: 90px;
+}
+
+img.porsche:hover {
+    cursor: pointer;
+}
+
+button{
+    margin-top: 150px;
+    padding: 20px 40px;
+    margin-left: 190px;
+    background-color: orange;
+    font-size: 2rem;
+    border-color: #000;
+    margin-bottom: 50px;
+}
+
+button:hover {
+    background-color: #000;
+    color: orange;
+    border: #000;
+}
